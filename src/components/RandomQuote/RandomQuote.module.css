@@ -1,0 +1,20 @@
+.section {
+  max-width: 45rem;
+  margin: 90px auto 0 auto;
+  background-color: white;
+  font-size: 25px;
+  font-size: 33px;
+  font-weight: 500;
+  border-left: 8px solid #f7df94;
+  padding-left: 70px;
+}
+.section p {
+  line-height: 120%;
+}
+.section p::before {
+  content: '"';
+}
+
+.section p::after {
+  content: '"';
+}

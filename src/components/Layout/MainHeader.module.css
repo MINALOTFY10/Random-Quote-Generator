@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  margin-left: 80px;
+  margin-top: 40px;
+}
+
+.random-button {
+  display: flex;
+  flex-direction: row;
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+
+.header h1 {
+  color: #4f4f4f;
+  padding: 0;
+  font-size: 1.2rem;
+}
+
+.icon {
+  color: #4f4f4f;
+  margin: auto 0;
+  margin-left: 10px;
+  transition: transform 0.2s;
+  margin-bottom: 16px;
+  display: block;
+}
+
+.random-button:hover {
+  transform: translateY(-5px);
+}

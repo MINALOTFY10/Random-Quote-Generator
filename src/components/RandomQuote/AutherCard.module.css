@@ -1,0 +1,33 @@
+.card {
+  margin: 50px auto 0px auto;
+  border-radius: 6px;
+  background-color: white;
+  padding: 3rem;
+  width: 70%;
+  max-width: 36rem;
+  cursor: pointer;
+}
+
+.card:hover {
+  background-color: #4f4f5a;
+  transition: 0.4s;
+  .author {
+    color: white;
+  }
+}
+
+.author {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  color: #4f4f5a;
+  margin: 0;
+}
+
+.genre {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: normal;
+  color: #928282;
+  margin: 0;
+}
