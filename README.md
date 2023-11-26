@@ -2,7 +2,7 @@
 
 This app is a simple Random Quote Generator built using React, fulfilling various user stories.
 <div align="center">
-  <img src="./Screenshot 2023-10-12 202133.png" alt="Application Screenshot" height="400">
+  <img src="./Screenshot 2023-11-26 215448.png" alt="Application Screenshot" height="400">
 </div>
 
 ## Features
